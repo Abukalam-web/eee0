@@ -1,0 +1,141 @@
+.body-section{
+    /* background: linear-gradient(to top left,#34495e,#1abc9c); */
+    padding-bottom: 100px;
+    
+
+}
+
+.body-section .col-md-6 .image00 img {
+    width: 66%;
+    height: 49%;
+    margin-top: -12.5%;
+    margin-left: -25%;
+    margin-bottom: -12%;
+  }
+
+
+
+.body-section .col-md-6 .title1{
+    font-size: 2rem;
+    margin-top: 50px;
+    color: white;
+    text-transform: capitalize;
+    font-family: 'Gideon Roman', cursive;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 30px;
+    
+}
+.body-section .col-md-6 .title-body{
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Gideon Roman', cursive;
+    
+    
+}
+.body-section .col-md-6 .title-brand{
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Gideon Roman', cursive;
+    
+    
+}
+.body-section .col-md-6 .eee-student{
+    color: #1abc9c;
+    font-size: 1.3rem;
+
+}
+
+.body-section .col-md-6 .log-in{
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-right: 7%;
+    text-decoration: none;
+    transition: all 0.5s;
+    background: linear-gradient(to top left,#1abc9c,#2c3e50);
+}
+.body-section .col-md-6  a{
+    padding: 5px 50px 8px 50px;
+    border-radius: 10px;
+    
+
+}
+
+.body-section .col-md-6  a:hover{
+    color: #1abc9c;
+    background: #2c3e50;
+    box-shadow: 0 0 10px #3498db, 0 0 40px #3498db, 0 0 80px #4398db;
+    border-radius: 15px;
+    padding: 7px 60px 8px 60px;
+}
+.body-section .col-md-6 .resister{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    transition: all 0.5s;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(to top left,#1abc9c,#2c3e50);
+
+}
+body{
+    background: linear-gradient(to top left,#34495e,#1abc9c);
+}
+/* start fuculty member section */
+.fuculty-member-section{
+    margin-bottom: 60px;
+}
+.fuculty-member-section h3{
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 3%;
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1.5px;
+
+}
+
+.card img{
+    height: 150px;
+}
+.card-body{
+    text-align: center;
+}
+
+.card-body a{
+    color: #1abc9c;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2rem;
+    transition: all 0.5s;
+   
+}
+.card-body a:hover{
+    box-shadow: 0 0 10px #3498db, 0 0 40px #3498db, 0 0 80px #4398db;
+    padding: 5px 20px;
+    
+}
+
+
+/* student information section */
+.students-information-section h3{
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 3%;
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1.5px;
+
+
+}
